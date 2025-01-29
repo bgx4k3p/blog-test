@@ -2,13 +2,13 @@
 layout: page
 menu: false
 date: '2023-02-27 01:53:59'
-title: About
+title: bgx4k3p
 description: About me
 permalink: /about/
+order: 4
+icon: fas fa-info-circle
 ---
 
-<img class="img-rounded" src="https://bgx4k3p.github.io/blog/assets/img/profile.png" alt="bgx4k3p" width="200">
+![Avatar](/assets/img/favicons/avatar.png)
 
-# bgx4k3p
-
-An avid learner and tech enthusiast with a passion for building drones, automation and hacking CTFs. Always eager to expand knowledge and sharing insights with others.
+An avid learner on exhilarating journey through AI, automation, and cybersecurity—always curious, always learning, and ready to share insights that ignite innovation! 🤖🚀🧠🔒✨🏴‍☠️
